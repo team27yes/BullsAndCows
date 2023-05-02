@@ -16,3 +16,4 @@ else:
         if num[i] == A[i]:
             bulls = bulls + 1
     print(f"Bulls : {bulls}")
+#1
